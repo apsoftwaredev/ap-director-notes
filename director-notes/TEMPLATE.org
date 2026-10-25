@@ -1,0 +1,30 @@
+#+TITLE: Director's Note · YYYY-MM-DD
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <YYYY-MM-DD Day>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/YYYY-MM-DD-director-note.org
+# Public, redacted summary only. Before publishing, remove: finances, bank names,
+# balances, health, legal, partner or third-party names, private links, personal
+# email, exact location.
+
+* Stamp
+- Local time (PT) :: YYYY-MM-DD HH:MM PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+
+** Done today
+
+** Next
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Director (required before publishing here)
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
