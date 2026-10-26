@@ -1,0 +1,64 @@
+#+TITLE: Director's Note · 2026-10-25
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-10-25 Sun>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-10-25.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-10-25 21:10 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+First nightly Director's Note. A day of setting up the public/private logging system,
+French vocabulary study, and starting a map of the Foundation's research threads.
+
+** Done today
+- Morning brief: English word of the day /emissary/ (a person sent to represent
+  another; from Latin /emittere/, "to send out"). French expression of the day
+  /avoir la gueule de bois/ ("to have a hangover"; literally "to have a wooden mouth").
+  Other morning items: Private — see private log.
+- French study: 61 entries added to the Words table (25 French, 36 English
+  translations), including traduire / traduction / traducteur, attraper,
+  éteindre, éternuer, l'écureuil, la chaleur, écouter, attendre, plutôt,
+  sérendipité, émissaire and "il a sauté par-dessus la clôture".
+  Public word list: https://adaptivephilosophy.notion.site/Daily-Word-List-French-Latin-403a657440a5815f962adeff1e301dd1
+- Logging system: created a private full daily log and a public redacted daily
+  log, a private log hub, a Start Here page, a Systems Map (how Notion, GitHub,
+  Jira and Slack mirror each other), topic drill-down pages (Study, Website,
+  Development, Ideas, Director's Notes, GitHub links), and a Morning Meeting page
+  for team updates. Public redacted log:
+  https://adaptivephilosophy.notion.site/Daily-Log-Public-redacted-404a657440a581e89939ed6f08181fc7
+- Added the human-directed / AI-assisted transparency footer to 12 public pages.
+- Created this public repository (ap-director-notes) for redacted nightly notes.
+- Standing focus recorded: the least well-off person on the street is the focus
+  of everything the Foundation does.
+- Research (drafts): "Research Orientation — The Map of Our Threads" and
+  "The Bigger Picture — Why We Care", with threads on religion and Eastern
+  philosophy (Hinduism, Brahman, the "spotlight view"), levels of consciousness
+  (Maslow, Rogers), EEG brain-wave states, psychedelics / astral projection / the
+  new-age field (curiosity, not endorsement), phenomenology, and placeholder
+  future threads (including non-human intelligence, curiosity only). New topic
+  pages on Infinity and on Quantum Logic & Quantum Proof Verification, plus an
+  AI-voiced "Living Thinkers Roundtable — Session 1" (homage seats; no real quotes).
+- Jira / GitHub sync review: missing GitHub mirrors created for 13 tickets.
+- Scheduled routines ran: public activity refreshes (no new pages after noon),
+  public Jira table refreshes (no changes), hourly deployment checks (no new
+  production deploys), and one deployment notice for the Notion articles refresh.
+
+** Next
+- Publish the remaining unpublished wish-list page when ready.
+- Continue the research threads (Consciousness, Identity, Reality not yet started).
+- Other open items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — published by the scheduled nightly routine
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
