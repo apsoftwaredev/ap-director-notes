@@ -1,0 +1,55 @@
+#+TITLE: Director's Note · 2026-10-26
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-10-26 Mon>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-10-26.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-10-26 21:05 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+A day of public advocacy drafts, a new research thread on animals, and a new
+Projects hub. French study was light today.
+
+** Done today
+- Morning brief: English word of the day /disparate/ (noticeably distinct from
+  one another; from Latin /disparare/, "to divide, separate off"). French word
+  of the day /feignant/ / /feignante/ (informal "lazy, idle; a slacker").
+  Other morning items: Private — see private log.
+- French study: 2 entries added to the Words table (disparate; feignant /
+  feignante). The full French study session was deferred today.
+  Public word list: https://adaptivephilosophy.notion.site/Daily-Word-List-French-Latin-403a657440a5815f962adeff1e301dd1
+- Advocacy: new public "Advocacy Stories" index with three developing-story
+  drafts (marked draft, not final). Details: Private — see private log.
+- Research (drafts): new thread "Animals: Consciousness, Welfare & Rights"
+  (thread 9), linked from "Research Orientation — The Map of Our Threads".
+- Projects: new public Projects hub with pages for an AI phone line, a
+  Roam-to-Notion import, a smart speaker / voice calls project, and home
+  automation.
+- Edited "The Case for Independent Study" with an "Additional points to add"
+  section.
+- Bug tracker: four app issues logged (three Gmail app issues, one Voice Memos
+  audio-input request).
+- Scheduled routines ran: public activity refreshes (no new pages after the
+  afternoon), public Jira table refreshes (no changes), hourly deployment checks
+  (no new production deploys), and one deployment notice for the scheduled
+  Notion articles refresh.
+
+** Next
+- Publish the remaining unpublished wish-list page when ready.
+- Resume the deferred French study session.
+- Other open items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — published by the scheduled nightly routine
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
