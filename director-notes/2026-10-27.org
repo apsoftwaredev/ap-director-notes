@@ -1,0 +1,45 @@
+#+TITLE: Director's Note · 2026-10-27
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-10-27 Tue>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-10-27.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-10-27 20:34 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+A day of foundation upkeep, reflection on how the Director works and thinks,
+and a rebuilt record after the evening logging session did not run.
+
+** Done today
+- Foundation upkeep: the Director is following up with the Washington Secretary
+  of State office about the foundation's registered agent renewal, asking about
+  waivers, programs, or referrals. Details: Private — see private log.
+- About page draft: work continued on the public draft (technical background,
+  personal learning, and training in clinical hypnosis). It remains a draft.
+- Software history: a checklist item was logged to verify older items flagged
+  in the Director's earlier clinician app repository.
+- Research framing: the Director prefers the term "multipolar" and described
+  how he synthesizes theories with his own experience, and his focused
+  "flow mode" way of working.
+- Time outdoors with the Director's dog at the dog park, and a walk to see
+  deer behind the Capitol.
+- Benefits, housing, and health follow-ups: Private — see private log.
+
+** Next
+- Capture later: the Pi data import and Pi archive.
+- Other capture-later items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — rebuilt from the day's chat and saved notes
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
