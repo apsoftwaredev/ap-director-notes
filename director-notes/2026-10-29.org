@@ -1,0 +1,48 @@
+#+TITLE: Director's Note · 2026-10-29
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-10-29 Thu>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-10-29.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-10-29 21:10 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+A quiet day on the record: the scheduled checks ran, nothing new shipped,
+and several of the daily routines did not run as planned.
+
+** Done today
+- Website and tracker checks ran through the afternoon and evening: no new
+  Jira or GitHub issue changes and no new production deploy of the articles
+  site (latest still Oct 18).
+- The public activity list refreshed at about 4 PM and 8 PM PT. Scratch Wish
+  List is still unpublished. A privacy check on one newly published page:
+  Private — see private log.
+- The public Jira table refreshed at about 8 PM PT (an earlier 4 PM run
+  failed); two rows had their Updated dates corrected to match Jira.
+- No new words were added to the Words table today.
+
+** Not done (routine failures)
+- The morning log page and the morning meeting did not run today, so there
+  is no word of the day or French expression on record.
+- Yesterday's (Oct 28) end-of-day note did not run, so there is no
+  Director's Note for Oct 28.
+
+** Next
+- Foundation upkeep deadline tomorrow: Private — see private log.
+- Look into why the morning routines and the Oct 28 note failed.
+- Carry-over writing tasks and other open items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — built automatically from the day's routine results
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
