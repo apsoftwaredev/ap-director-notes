@@ -44,7 +44,7 @@ plan for tying Notion, Slack and GitHub org-mode notes together.
 - A pronunciations page now keeps preferred pronunciations of names and
   words so they don't need re-explaining.
 - Member directory entries got a professional membership link.
-- Feature requests for the AI tools we use were added to the public bug and
+- Feature requests for the AI tools we use were added to the bug and
   feature tracker, and the community channels for sending them were noted.
 - Three new tracker tickets were opened (grant research and an
   infrastructure need): Private — see private log.
