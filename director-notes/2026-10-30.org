@@ -1,0 +1,73 @@
+#+TITLE: Director's Note · 2026-10-30
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-10-30 Fri>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-10-30.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-10-30 21:15 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+A full working day: the morning routines ran again, and we set up the
+structure for logging and sharing by voice: numbered "puff session" pages,
+need-to-know (NTK) privacy levels, scratch bullets for quick ideas, and a
+plan for tying Notion, Slack and GitHub org-mode notes together.
+
+** Words of the day
+- English: reticent (RET-uh-sunt), Merriam-Webster Word of the Day.
+- French: aéroport (m.), "airport", /a.e.ʁɔ.pɔʁ/. French Learner word of
+  the day.
+- Both were added to the Words table.
+
+** Done today
+- Morning meeting held and logged, including a review of open tracker
+  tickets and loose ends.
+- Puff sessions: a captain's-log style template (orientation and session
+  number at the top, then back-and-forth, then a public/private Director's
+  Note). Puff Session 1 (2:34–3:17 PM PT) and Puff Session 2 (from 3:18 PM
+  PT, focused on developing and testing an AI seat) were opened.
+- Privacy: NTK ("need-to-know") tags in the form NTK-topic. Anything
+  NTK-tagged stays private, and access is given per level. The level
+  structure is meant to be shared openly as a framework others can adapt;
+  the tagged contents stay private.
+- Scratch bullets: half-formed ideas are captured as bullets tagged
+  "scratch" and reviewed later; the voice trigger was tested.
+- A tag index and synced workspace-tree blocks were set up so pages can be
+  pulled up quickly by tag during voice calls.
+- A pronunciations page now keeps preferred pronunciations of names and
+  words so they don't need re-explaining.
+- Member directory entries got a professional membership link.
+- Feature requests for the AI tools we use were added to the public bug and
+  feature tracker, and the community channels for sending them were noted.
+- Three new tracker tickets were opened (grant research and an
+  infrastructure need): Private — see private log.
+- The "puffer tradition" research page was extended; specific plans:
+  Private — see private log.
+- Scheduled checks ran through the day: no new production deploy of the
+  articles site (latest still Oct 18) and no changes to the public lists.
+
+** Vision noted today
+- Voice-driven logging and research as assistive technology, so anyone
+  who can't type can record, review and build on their notes.
+- Notion, Slack and GitHub org-mode notes integrated, with a closing-call
+  test planned to see what logs come out of a day's setup.
+
+** Next
+- Daily Logs Hub: add a small log database with a public view and an NTK
+  view.
+- Add the open-framework note to the NTK privacy levels page.
+- Foundation upkeep, grant and writing follow-ups: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — built automatically from the day's logs and routine results
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
