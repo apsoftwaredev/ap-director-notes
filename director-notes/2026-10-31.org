@@ -1,0 +1,67 @@
+#+TITLE: Director's Note · 2026-10-31
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-10-31 Sat>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-10-31.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-10-31 21:20 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+Halloween. The morning routines ran, the morning meeting was logged in
+detail, and in the evening a new rule went live: any page, article or note
+tagged "public" now shows in the website's recent list, alongside the
+existing Article and Notes tags.
+
+** Words of the day
+- English: wraith (noun, RAYTH). Merriam-Webster Word of the Day.
+- French: à force de, "by dint of, through repeatedly
+  doing", /a fɔʁs də/. French Learner expression of the day.
+- Both were added to the Words table.
+
+** Done today
+- Morning brief built (8:07 AM PT) and the morning meeting held and logged
+  (from about 11 AM PT). Meeting details: Private — see private log.
+- Accessibility: a defect was logged in the bug and feature tracker — an
+  AI tool's permission dialog can't be reached by keyboard (suggested fix:
+  a modal focus trap). A feature request for custom text-to-speech
+  pronunciations was extended, and the pronunciations page
+  was updated.
+- A French keyboard keystrokes reference page was added.
+- Readings: a unified readings section (authors, publications and
+  concepts) was set up in the Research Library, with publication entries
+  on ego states, transactional analysis and related therapy literature.
+- Redaction rule: public versions of private material are to be redacted
+  before publishing. Two public, redacted proposal drafts were prepared
+  this evening (details: Private — see private log).
+- Website: the "public" tag rule was approved, merged and deployed this
+  evening (change merged ~8:21 PM PT; deploy passed ~8:24 PM PT).
+- Tracker: three new tickets — a Research Library search component, an
+  advanced search component for the website, and a contact page — each now
+  mirrored as a GitHub issue.
+- Scheduled checks ran all day: no new production deploy of the articles
+  site (latest still Oct 18), one scheduled articles refresh run, and no
+  changes to the public activity or tracker lists in the evening refreshes.
+- Other items from today: Private — see private log.
+
+** Next
+- Daily Logs Hub: add a log database with public and NTK views.
+- Add the open-framework note to the NTK privacy levels page.
+- Connect the bot team to the developer community chat: Private — see
+  private log.
+- Search and contact-page work on the website (new tickets).
+- Foundation upkeep, grant and writing follow-ups: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — built automatically from the day's logs and routine results
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
