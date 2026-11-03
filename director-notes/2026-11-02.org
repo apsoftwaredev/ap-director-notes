@@ -1,0 +1,73 @@
+#+TITLE: Director's Note · 2026-11-02
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-11-02 Mon>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-11-02.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-11-02 21:15 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+A quieter Monday. The morning routines ran, a late-morning meeting was
+logged, public pages had verification and contact wording cleaned up, and
+a new weekly structure for the daily logs was started. Larger website
+tasks are paused for a few days.
+
+** Words of the day
+- English: satiate (verb, SAY-shee-ayt), to satisfy a need or desire
+  fully. Merriam-Webster Word of the Day.
+- French: un œil, les yeux (masculine noun), "an eye, the eyes"; the
+  plural is irregular. "L'essentiel est invisible pour les yeux"
+  (Le Petit Prince). Bonus: "mon œil !" means "yeah right!".
+  French Learner word of the day.
+- Both were added to the Words table.
+
+** Foundation principle recorded today
+- Education is a lifelong learning process, not a degree or a test passed
+  and forgotten. Skills are tracked from childhood onward and keep building
+  through life, with each subject as its own ongoing learning journey with
+  records, rather than ending when a class ends.
+
+** Done today
+- Morning log page created (~6:05 AM PT) and the morning brief built
+  (~8:05 AM PT). No calendar events today.
+- Late-morning meeting held and logged. Meeting details: Private — see
+  private log.
+- Public pages: the shared footer and the giving and contact pages now
+  point readers to the state corporation search to verify the foundation;
+  identifier details: Private — see private log. A public video page had
+  its summary heading and one label corrected.
+- Thank-you notes were drafted for three local animal-care groups (names:
+  Private — see private log).
+- Logs: a private weekly logs hub was started, with one page per week
+  (Monday to Sunday) listing that week's daily logs.
+- Scheduled checks ran all day: no new production deploy of the articles
+  site (latest still Oct 18), no tracker or issue changes needing a post,
+  and the public activity list refreshed two updated dates in the
+  afternoon (457 pages; no change in the evening).
+- Other items from today: Private — see private log.
+
+** Next
+- Election Day is tomorrow, Nov 3.
+- The Nov 1 note was not filed (the nightly routine failed); to review.
+- Paused website tasks: homepage cleanup of old test articles, a folder
+  tree for foundation pages, and a new-page rule for privacy level and
+  tags.
+- Daily Logs Hub: add a log database with public and NTK views; file older
+  logs into the new weekly pages.
+- Website search and contact-page work (open tickets).
+- Foundation upkeep, grant and writing follow-ups: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — built automatically from the day's logs and routine results
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
