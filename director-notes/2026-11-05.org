@@ -1,0 +1,51 @@
+#+TITLE: Director's Note · 2026-11-05
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-11-05 Thu>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-11-05.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-11-05 21:05 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+A quiet Thursday on the record: the scheduled checks ran, one public
+election-related page appeared in the activity list, nothing new shipped,
+and several of the daily routines did not run as planned.
+
+** Done today
+- Website and tracker checks ran through the afternoon and evening: no new
+  Jira or GitHub issue changes and no new production deploy of the articles
+  site (latest still Oct 18).
+- The public activity list refreshed at about 4 PM PT and added one new
+  row for a Washington State no-vote list for November 2026. The 8 PM PT
+  refresh found no further changes. Scratch Wish List is still unpublished.
+- The public Jira table refreshed at about 4 PM and 8 PM PT (an earlier
+  noon run failed); no tickets were created or updated today.
+- No new words were added to the Words table today.
+- Tonight's log page was created by this routine because the morning log
+  routine did not run.
+
+** Not done (routine failures)
+- The morning log page and the morning meeting did not run today, so there
+  is no word of the day or French expression on record.
+- The Nov 3 and Nov 4 end-of-day notes did not run to completion, so there
+  are no Director's Notes for those days yet. Nov 1 is still missing too.
+
+** Next
+- Grant deadline next week: Private — see private log.
+- Look into why the morning routines and the Nov 3 / Nov 4 notes failed.
+- Carry-over writing tasks and other open items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — built automatically from the day's routine results
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
