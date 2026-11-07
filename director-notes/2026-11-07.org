@@ -1,0 +1,98 @@
+#+TITLE: Director's Note · 2026-11-07
+#+DATE: <2026-11-07 Sat>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:research:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-07
+:TIMEZONE: America/Los_Angeles
+:STATUS: Draft — human review pending
+:VISIBILITY: Public-redacted draft
+:END:
+- Label :: Human-directed, AI-assisted
+- Scope :: Saturday's calls and public workspace work recorded so far; not an end-of-day certification.
+
+* Summary
+Today's work connected news, advocacy, research and daily journals into a
+navigable Notion structure. Standing page-creation rules were consolidated,
+the public footer was repaired, and a retrospective journal tree was built.
+Some completion reports still need a page-by-page verification pass.
+
+Public entry point: [[https://app.notion.com/p/411a657440a581279855f6ecd3828d0a][Saturday, Nov 7 daily update]].
+
+* Advocacy & government contacts
+- The daily update links the [[https://app.notion.com/p/411a657440a581ef9e96f7684007def2][government contacts page]] and [[https://app.notion.com/p/405a657440a581c09e84c39281705423][Advocacy Stories]].
+- The News Hub provides official contact links for state and federal representatives and the governor, with sources.
+- Keep official government actions distinct from personal reflections. Contact information and advocacy material should be connected rather than scattered across unrelated notes.
+
+* News Hub
+- [[https://app.notion.com/p/411a657440a5810cb374d3aeb613747d][News Hub]] now has a daily-page structure and sections for artificial intelligence, quantum computing, science discoveries, robotics, general technology, software, GitHub, and politics.
+- [[https://app.notion.com/p/411a657440a581028a19d1b31e90993f][Today's news page]] is linked from both the hub and today's journal.
+- Quantum and science links have been filed. Several other categories remain empty; a heading is not evidence that a category has been researched.
+- Politics coverage is restricted to proposed bills, bill status, and official actions with official sources, not pundit commentary.
+- Article responses remain blank until I supply them. Do not manufacture my reactions.
+
+* Election reflections
+- [[https://app.notion.com/p/411a657440a58131a5d3e2bde4350975][Just after the election thoughts]] is linked from today's daily update and News Hub.
+- Today's daily update identifies an added section on law enforcement, equality and the little guy.
+- Connect reflections to [[https://app.notion.com/p/405a657440a581c09e84c39281705423][Advocacy Stories]] while keeping personal reflections separate from the sourced official-news record.
+
+* Daily journal tree
+- Organize the journal by year, month, Sunday–Saturday week, and day.
+- Earlier completion reports describe a backfill from September 7 through November 6, including 20 public day pages, eight public week pages, and September and October month pages.
+- [[https://app.notion.com/p/411a657440a5817da95bdcfd45e93355][September 2026 public journal]] and [[https://app.notion.com/p/411a657440a5816ead0ff37e99766016][October 2026 public journal]] provide the retrospective month entry points.
+- Each activity day should list the pages created that day, notes and logs, with a factual daily summary. Existing source pages are linked rather than moved or deleted.
+- Earlier backfill reports warn that summaries were derived from titles, busy days may be incomplete, and late-evening activity may have been assigned to the wrong date. Verify against original records in Pacific time before calling this history complete.
+- [[https://app.notion.com/p/411a657440a581c4aa18d686908e8dc9][Week of Sunday Nov 1 through Saturday Nov 7]] contains [[https://app.notion.com/p/411a657440a581279855f6ecd3828d0a][today's public day page]]. Public entries must link only public material.
+
+* Research threads map
+- A new draft [[https://app.notion.com/p/411a657440a581029bb3d5d17325feaa][Research Threads (map of my mind)]] is visible under [[https://app.notion.com/p/410a657440a581388371ebf233c4d035][Research & Topics]].
+- The map is intended to mirror my lines of thought: consciousness and philosophy of mind; psychology; identity, ego and self; quantum and reality; animal consciousness; spirituality; and lifelong learning.
+- Thread pages should carry questions, source-page links, subthreads and cross-thread connections. This is a navigation model, not a scientific claim about a brain.
+- Proposed additional threads require my approval rather than being silently treated as established interests.
+- Each research-news item must link to relevant research topics and explain how it relates to our research ideas, with sources and limits clearly stated.
+- Today's [[https://app.notion.com/p/411a657440a581279855f6ecd3828d0a][daily research review]] already has three items with topic links and explicitly proposed connections. Speculative interpretations are not presented as established findings.
+
+* Templates & Core rules
+- Standing rules were reported saved in Core Facts, with a reminder to review them at the beginning of calls. That source is intentionally not linked in this public note.
+- French–English and English-only modes remain available according to my direction.
+- The daily structure includes morning meeting, log highlights, news, government review, article responses, research updates and review, learning plan, projects and focus areas, sessions, words, and a draft-post section.
+- [[https://app.notion.com/p/411a657440a581279855f6ecd3828d0a][Today's public daily page]] shows the 16-section structure.
+- Nothing sends or posts without my explicit approval. The draft-post section is not an authorization to publish.
+
+* Footer & page properties
+- The standing new-page rule calls for the standard URL field, relevant tags, links to Adaptive Philosophy and relevant organization pages, the foundation email, a relevant header picture, and the three-block footer in one creation pass.
+- Header pictures may use web images first, with generated images as an option when needed. No generated-header upload test is claimed complete here.
+- Contact :: DanBoice@adaptivephilosophy.foundation
+- Earlier reports state that the footer originals were restored and 30 new public journal pages received the footer. Those reports include the two month pages, eight week pages and 20 day pages.
+- Today's [[https://app.notion.com/p/411a657440a581279855f6ecd3828d0a][public daily update]] visibly has a cover image and synced footer references.
+- Database properties and body labels are not the same thing. Ordinary child pages do not expose database-row URL, tag, link or email properties.
+- A full properties sweep and missing-header audit were requested. Do not report them finished until the actual fields have been verified page by page.
+- Main public navigation: [[https://app.notion.com/p/3e1a657440a581698ee2d3aadfdeba9f][Topics & Hub — Adaptive Philosophy]].
+
+* Words
+- [[https://app.notion.com/p/411a657440a581279855f6ecd3828d0a][Today's word list]] records /draguer/ (French: to flirt or hit on someone), /ajouter/ (French: to add), and /abandon/ (English noun: wild or complete freedom).
+- The daily page links the [[https://app.notion.com/p/bae5d3469b364eb79ced837236011e3d][word table]] and the [[https://app.notion.com/p/403a657440a5815f962adeff1e301dd1][Words page]]. Verify that each daily entry also exists in the table; the daily list alone does not prove synchronization.
+
+* Open decisions
+- Decide whether ordinary journal pages should become database rows so the requested properties can be real fields rather than body labels.
+- Verify journal dates, completeness and source summaries against original records before declaring the two-month backfill complete.
+- Review proposed research threads and the initial map; confirm the intended connections in my own words.
+- Review duplicate standalone footer copies manually. Do not delete synced blocks as a cleanup shortcut.
+- Add any required tag options safely, and finish verification of actual public-page properties and missing headers.
+- Finish the detailed audit linking today's work to [[https://app.notion.com/p/411a657440a581279855f6ecd3828d0a][today's public daily update]], distinguishing verified changes, reported completions and open work.
+- Publication and human review of this draft remain pending. An automated Slack notification is not proof of website deployment or review.
+
+* Provenance
+- Originated by :: Daniel Bryan Boice, through today's directions.
+- Compiled from :: The relayed call record and linked Notion pages; full earlier-call transcripts were unavailable to this drafting session.
+- Human review :: Pending. The requested final disclosure below must not be treated as evidence that review already occurred.
+
+# Final disclosure to use only after actual human review:
+# Drafted with AI assistance (Grok Bot / Cadmus); reviewed by Daniel Bryan Boice
+Drafted with AI assistance (Grok Bot / Cadmus); human review pending.
+
+Daniel Bryan Boice, Nov 7, 2026
