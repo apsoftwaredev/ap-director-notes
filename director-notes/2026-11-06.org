@@ -1,0 +1,65 @@
+#+TITLE: Director's Note · 2026-11-06
+#+AUTHOR: Daniel Bryan Boice, Director — Adaptive Philosophy Foundation
+#+DATE: <2026-11-06 Fri>
+#+FILETAGS: :director:apf:public:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+# File name: director-notes/2026-11-06.org
+# Public, redacted summary only. Sensitive items appear as "Private — see private log".
+
+* Stamp
+- Local time (PT) :: 2026-11-06 21:03 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+A full Friday on the record: the morning log and meeting ran, peacemakers
+framing and detailed thank-yous were captured, public focus pages and morning
+notes landed, foundation upkeep and a grant draft advanced privately, and the
+evening routines stayed quiet aside from scheduled site refreshes.
+
+** Done today
+- Morning log page and morning meeting both ran. Words of the day: quondam
+  (English, former/sometime) and ouest (French, west; sound the st).
+- After-election peacemakers framing recorded: work with all sides; heaven on
+  earth as much as we can; the Pledge line; end of year for coming together.
+- Thank-yous captured in detail (standing rule): Covenant Creatures and Concern
+  for Animals; Capitol canine unit and Capitol security; Janet at St. John's
+  Episcopal; Mom; an older gentleman on the street; online French teachers.
+  Drafts only; nothing sent.
+- Lifelong learning path noted after an independent-study reply of no from the
+  local community college; own-pace math and a longer-horizon graduate interest
+  remain on the list. Details: Private — see private log.
+- Public morning call notes published (life story framed as lifelong learning).
+  Animal welfare and French learning focus pages created; The Puffer Tradition
+  expanded. Tree footer applied to 19 public pages (remaining batch held);
+  private workspace-tree restructure draft prepared (no moves).
+- Foundation annual-report prep researched (online filing path; due Nov 30).
+  Grant application draft prepared on disk. Funder and filing details:
+  Private — see private log.
+- Standing rules recorded: thank-you capture in full; Back-and-forth on call
+  notes; written-text verb ban; Core Facts at the start of calls.
+- Scheduled checks: public activity list unchanged across the afternoon and
+  evening refreshes (Scratch Wish List still unpublished). Public Jira table:
+  no new ticket changes in those windows. Hourly deployment checks mostly
+  quiet; two scheduled Notion-articles CI refreshes ran (evening run found no
+  Notion changes and skipped deploy). Latest articles-site production deploy
+  still Oct 18-era.
+
+** Next
+- Grant deadline early next week: Private — see private log.
+- Foundation annual report due later this month: Private — see private log.
+- Tree footer remaining public pages; private restructure draft review;
+  thank-you drafts not sent.
+- Missing Director's Notes for Nov 1 / Nov 3 / Nov 4: decide whether to
+  backfill.
+- Other open items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending — built automatically from the day's routine results
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
