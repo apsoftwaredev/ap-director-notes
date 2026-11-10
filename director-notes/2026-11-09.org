@@ -1,0 +1,58 @@
+#+TITLE: Director's Note · 2026-11-09
+#+DATE: <2026-11-09 Mon>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:words:research:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-09
+:TIMEZONE: America/Los_Angeles
+:STATUS: Draft — human review pending
+:VISIBILITY: Public-redacted draft
+:END:
+- Label :: Human-directed, AI-assisted
+- Scope :: Monday, Nov 9, 2026, from the day's routines, notes and pages; redacted for public.
+
+* Summary
+Monday opened with the morning meeting, a quiet calendar and a webinar, then
+moved into foundation paperwork and planning. Routine website and activity
+checks ran through the day. Several items are Private — see private log.
+
+Public entry point: [[https://app.notion.com/p/413a657440a58157befee4a1872413ff][Monday, Nov 9 daily update]].
+
+* Morning meeting
+- Orientation: Olympia, Washington, USA, Monday, November 9, 2026, morning (Pacific time).
+- One online webinar at 11:00 AM PT, "The State of Developer Experience in 2026".
+- Funding, grants and paperwork items: Private — see private log.
+
+* Research and news
+- The daily update filed two reviews: a Nature spotlight on theories of consciousness (Nov 4, 2026) and a ScienceDaily item on a fear mechanism studied in mice (McGill release, Nov 3, 2026; animal research, so human results may differ).
+- News items filed: quantum-computing stories (an NSF-funded institute with UCSB, a neutral-atom prototype in China, and a Harvard preprint that is not yet peer reviewed).
+
+* Words
+- English word of the day: /wabi-sabi/ (noun): a philosophy of Japanese origin that values imperfect, impermanent and simple things (Merriam-Webster Word of the Day, Nov 9, 2026).
+- French word of the day: /truc/ (m.): informal "thing", "stuff" or "trick" (French Learner, Nov 9, 2026).
+- Both are in the [[https://app.notion.com/p/bae5d3469b364eb79ced837236011e3d][Words table]] list for the day per the morning brief.
+
+* Website and workspace
+- The public activity database gained a "Notes" type option so that feed items of that kind can be stored.
+- Scheduled refreshes of the public activity list found no new or changed pages in the afternoon checks (521 pages).
+- The public task table refresh and the hourly deployments check ran; nothing new was cleared for public posting.
+- A scheduled repository workflow re-sorted the recent-articles list on main; no content changes.
+
+* Open items carried to tomorrow
+- Decide whether to backfill missing Director's Notes for earlier days.
+- Look into why several daily routines failed earlier this week.
+- Footer on remaining public pages (held for go-ahead).
+- Other items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot (Cadmus)
+- Human review :: Pending
+
+Drafted with AI assistance (Grok Bot / Cadmus); human review pending.
+
+Daniel Bryan Boice, Nov 9, 2026
