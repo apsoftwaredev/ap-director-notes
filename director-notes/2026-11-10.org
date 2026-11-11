@@ -1,0 +1,58 @@
+#+TITLE: Director's Note · 2026-11-10
+#+DATE: <2026-11-10 Tue>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:words:research:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-10
+:TIMEZONE: America/Los_Angeles
+:STATUS: Draft — human review pending
+:VISIBILITY: Public-redacted draft
+:END:
+- Label :: Human-directed, AI-assisted
+- Scope :: Tuesday, Nov 10, 2026, from the day's routines, notes and pages; redacted for public.
+
+* Summary
+Tuesday was a study and research day with a quiet calendar. Routine website
+and activity checks ran through the day and found nothing new. Several items
+are Private — see private log.
+
+Public entry point: [[https://app.notion.com/p/414a657440a5814eb439e87e02775f20][Tuesday, Nov 10 daily update]].
+
+* Morning meeting
+- Orientation: Olympia, Washington, USA, Tuesday, November 10, 2026, morning (Pacific time).
+- Nothing on the calendar. Wednesday, Nov 11 is Veterans Day.
+- Funding, grants, paperwork and account items: Private — see private log.
+
+* Research and news
+- The daily update filed three reviews: a 7T fMRI case study of a meditative state where experience stops (Imaging Neuroscience, three participants only), a brainstem theory of consciousness (The Neuroscientist, reported Nov 2, 2026), and parallel control of five silicon spin qubits (Nature Physics, via RIKEN, Nov 9, 2026).
+- News items filed: the qubit control result, a light-connected single-molecule qubit, and an AMD and IQM hybrid quantum and GPU chemistry demonstration.
+
+* Words
+- English word of the day: /defer/ (verb): to put something off or delay it until later (Merriam-Webster Word of the Day, Nov 10, 2026).
+- French word of the day: /râler/: informal "to complain", "to grumble" or "to whine" (French Learner, Nov 10, 2026).
+- Both were added to the [[https://app.notion.com/p/bae5d3469b364eb79ced837236011e3d][Words table]].
+
+* Website and workspace
+- Scheduled refreshes of the public activity list found no new or changed pages (525 pages).
+- The public task table refresh ran three times; no changes.
+- The hourly deployments checks found nothing new to post.
+- The Director's Notes repository was cloned and set up on the Director's Linux environment.
+
+* Open items carried to tomorrow
+- Decide whether to backfill missing Director's Notes for earlier days.
+- Look into why several daily routines failed earlier this week.
+- Footer on remaining public pages (held for go-ahead).
+- Other items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot (Cadmus)
+- Human review :: Pending
+
+Drafted with AI assistance (Grok Bot / Cadmus); human review pending.
+
+Daniel Bryan Boice, 2026-11-10
