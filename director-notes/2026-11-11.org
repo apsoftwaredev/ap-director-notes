@@ -1,0 +1,56 @@
+#+TITLE: Director's Note · 2026-11-11
+#+DATE: <2026-11-11 Wed>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:words:research:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-11
+:TIMEZONE: America/Los_Angeles
+:STATUS: Draft — human review pending
+:VISIBILITY: Public-redacted draft
+:END:
+- Label :: Human-directed, AI-assisted
+- Scope :: Wednesday, Nov 11, 2026, from the day's routines, notes and pages; redacted for public.
+
+* Summary
+Wednesday, Veterans Day, was a study and research day with a quiet
+calendar. Several items are Private — see private log.
+
+Public entry point: [[https://app.notion.com/p/415a657440a58103a266ed9233a9207a][Wednesday, Nov 11 daily update]].
+
+* Morning meeting
+- Orientation: Olympia, Washington, USA, Wednesday, November 11, 2026, morning (Pacific time).
+- Nothing on the calendar. Veterans Day.
+- Funding, grants, paperwork, animal care and account items: Private — see private log.
+
+* Research and news
+- The daily update filed three reviews: affect balance as a measure of how animals feel (Neuroscience & Biobehavioral Reviews), levels of visual awareness (iScience), and adaptive sequences of quantum instruments (Quantum).
+- News items filed: AI-designed quantum circuits with lower resource estimates (Harvard, Anthropic and QuEra preprint), Google DeepMind and Quantum AI resource reductions, a Quantinuum and RIKEN hybrid chemistry run, and a Nature spotlight, "Why are we conscious?".
+
+* Words
+- English word of the day: /valorous/ (adjective): courageous or brave (Merriam-Webster).
+- French word of the day: /lendemain/ (masculine noun): "the following day" (French Learner).
+- Both were added to the [[https://app.notion.com/p/bae5d3469b364eb79ced837236011e3d][Words table]].
+
+* Website and workspace
+- X and Facebook draft text was prepared on the daily update; nothing was posted.
+- Org notes sync for the Director's Notes was set up on the Director's computer.
+- The hourly deployments check, the public activity refresh and the public task table refresh are paused at the Director's request and run only on request.
+
+* Open items carried to tomorrow
+- Decide whether to backfill missing Director's Notes for earlier days.
+- Look into why several daily routines failed earlier this week.
+- Footer on remaining public pages (held for go-ahead).
+- Other items: Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot (Cadmus)
+- Human review :: Pending
+
+Drafted with AI assistance (Grok Bot / Cadmus); human review pending.
+
+Daniel Bryan Boice, 2026-11-11
