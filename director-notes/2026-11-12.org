@@ -1,0 +1,40 @@
+#+TITLE: Director's Note · 2026-11-12
+#+DATE: <2026-11-12 Thu>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-12
+:TIMEZONE: America/Los_Angeles
+:STATUS: Draft — human review pending
+:VISIBILITY: Public-redacted draft
+:END:
+- Label :: Human-directed, AI-assisted
+- Scope :: Thursday, Nov 12, 2026; redacted for public.
+
+* Summary
+Most of today's items are Private — see private log.
+
+* Morning meeting
+- Private — see private log.
+
+* Words
+- No new words were added to the Words table today.
+
+* Website and workspace
+- Private — see private log.
+
+* Open items carried to tomorrow
+- Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot (Cadmus)
+- Human review :: Pending
+
+Drafted with AI assistance (Grok Bot / Cadmus); human review pending.
+
+Daniel Bryan Boice, 2026-11-12
