@@ -1,0 +1,44 @@
+#+TITLE: Director's Note · 2026-11-13
+#+DATE: <2026-11-13 Fri>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-13
+:TIMEZONE: America/Los_Angeles
+:STATUS: Draft — human review pending
+:VISIBILITY: Public-redacted draft
+:END:
+- Label :: Human-directed, AI-assisted
+- Scope :: Friday, Nov 13, 2026; redacted for public.
+
+* Summary
+The morning meeting ran and produced the daily update pages. Calendar, email, funding, personal and appointment items are Private — see private log.
+
+* Morning meeting
+- Words of the day: English "impertinent" and French "papoter" (en papotant).
+- Everything else: Private — see private log.
+
+* Words
+- Two rows were added to the Words table today: impertinent and papoter.
+
+* Website and workspace
+- The public daily update carries four research reviews (meditation and consciousness, a brainstem theory of consciousness, pain-like states in crickets, out-of-body experiences) and four science news items.
+- X and Facebook draft text was prepared; nothing was posted.
+- A scheduled refresh of the website's Notion articles ran successfully; no other website change is recorded.
+- Everything else: Private — see private log.
+
+* Open items carried to tomorrow
+- Private — see private log.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot (Cadmus)
+- Human review :: Pending
+
+Drafted with AI assistance (Grok Bot / Cadmus); human review pending.
+
+Daniel Bryan Boice, 2026-11-13
