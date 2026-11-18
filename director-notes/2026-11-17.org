@@ -1,0 +1,47 @@
+#+TITLE: Director's Note · 2026-11-17
+#+DATE: <2026-11-17 Tue>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-17
+:TIMEZONE: America/Los_Angeles
+:STATUS: Director record
+:VISIBILITY: Public notes repository
+:END:
+- Label :: Human-directed, AI-assisted (Cadmus)
+- Scope :: Tuesday, Nov 17, 2026; bilingual record of the Tumwater filing and guiding principles.
+
+* Note du Directeur
+Aujourd'hui, Daniel Bryan Boice a déposé les Articles of Amendment (statuts modificatifs) au bureau du Secretary of State de l'État de Washington, à Tumwater.
+
+Stratégie : il a choisi le traitement standard, d'une durée d'environ deux semaines, au tarif de 20 dollars, plutôt que de payer environ 100 dollars ou plus pour un service accéléré. En effet, la demande auprès de l'IRS, formulaire 1023, ne doit être déposée qu'après que l'État de Washington aura confirmé le changement de statut en organisme à but non lucratif de nature charitable (avec une intention d'éducation religieuse et spirituelle). Dès que cette confirmation sera reçue, il déposera le formulaire auprès de l'IRS.
+
+Principe directeur : l'éthique du Bon Samaritain. Il convient de se concentrer sur les plus démunis ; si une personne semble avoir besoin d'aide ou la demande, il faut y répondre avec sollicitude, car cela pourrait arriver à n'importe lequel d'entre nous un jour. Telle est l'interprétation et la conviction de Daniel. Il a également une idée pour préciser davantage ce principe à l'aide de concepts logiques et philosophiques qui lui sont venus (à développer plus tard).
+
+Principe de culture de la discussion : dans les discussions philosophiques, il convient de se concentrer sur le sujet en cours, et non sur des questions personnelles sans rapport ; les récits personnels sont les bienvenus seulement lorsqu'ils servent le sujet.
+
+Daniel Bryan Boice, 17 novembre 2026
+
+Human-directed · AI-assisted (Cadmus).
+
+* English translation
+Today, Daniel Bryan Boice turned in the Articles of Amendment at the Washington Secretary of State office in Tumwater.
+
+Strategy: he chose standard processing, about two weeks, at the 20-dollar fee, rather than paying about 100 dollars or more for expedited service. The IRS Form 1023 application should go in only after Washington State confirms the change to charitable nonprofit status (with religious and spiritual educational intent). Once that confirmation arrives, he will file the IRS form.
+
+Guiding principle: the Good Samaritan ethic. Focus on the least well off; if someone appears to need help or asks for it, respond with concern, because it could be any of us at some point. This is Daniel's interpretation and belief. He also has an idea to shape this further using logical and philosophical concepts that came to him (to be developed later).
+
+Discussion-culture principle: in philosophy discussions, focus on the topic at hand, not on irrelevant personal matters; personal stories are welcome only when they serve the topic.
+
+Daniel Bryan Boice, 17 novembre 2026
+
+Human-directed · AI-assisted (Cadmus).
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot (Cadmus)
+- Human review :: Pending
