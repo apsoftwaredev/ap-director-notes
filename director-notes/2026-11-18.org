@@ -1,0 +1,61 @@
+#+TITLE: Director's Note · 2026-11-18
+#+DATE: <2026-11-18 Wed>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-18
+:TIMEZONE: America/Los_Angeles
+:STATUS: Director record (redacted summary)
+:VISIBILITY: Public notes repository
+:END:
+- Label :: Human-directed, AI-assisted (Cadmus)
+- Scope :: Mercredi 18 novembre 2026 ; résumé bilingue expurgé de la journée.
+
+* Note du Directeur
+** Titre
+Infrastructure de courriel et de sites : mise en service, vérification et déploiements.
+
+** Fait aujourd'hui
+- Étude : mot anglais du jour « hobbyhorse » (sujet sur lequel on revient sans cesse) ; mot français du jour « ranger » (ranger, mettre en ordre — et non « arranger »). Les deux ont été ajoutés à la base de données de mots.
+- Courriel : la messagerie de l'organisation a été reconfigurée ; l'authentification DKIM a été mise en place pour les domaines de la fondation et les connecteurs de messagerie, d'agenda et de documents ont été reliés au compte de l'organisation.
+- Sites : les déploiements des sites de redirection de dan.credit ont été corrigés (PR #61, renommage du site d'hébergement en « dancredit-donate ») et le déploiement de zoix.ai a réussi.
+- Suivi : trois nouveaux billets publics ont été créés dans Jira AP : AP-85, AP-86 et AP-87.
+- Pages publiques : le fil « All public activity » et le tableau public Jira ont été actualisés.
+- Développement d'applications : planification (détails : Private — see private log).
+- Autres éléments : Private — see private log.
+
+** Suite
+- Reporter les points ouverts au journal de demain (détails : Private — see private log).
+
+Daniel Bryan Boice, 18 novembre 2026
+
+Human-directed · AI-assisted (Cadmus).
+
+* English translation
+** Headline
+Email and site infrastructure: set up, verified and deployed.
+
+** Done today
+- Study: English word of the day "hobbyhorse" (a topic one keeps returning to); French word of the day "ranger" (to tidy up, to put away, not "to arrange"). Both were added to the Words database.
+- Email: the organization's mail was reconfigured; DKIM authentication was set up for the foundation's domains, and the mail, calendar and document connectors were linked to the organization account.
+- Sites: the dan.credit redirect-site deployments were fixed (PR #61, hosting site renamed "dancredit-donate"), and the zoix.ai deployment succeeded.
+- Tracking: three new public tickets were created in Jira AP: AP-85, AP-86 and AP-87.
+- Public pages: the "All public activity" feed and the public Jira table were refreshed.
+- App development: planning (details: Private — see private log).
+- Other items: Private — see private log.
+
+** Next
+- Carry open items to tomorrow's log (details: Private — see private log).
+
+Daniel Bryan Boice, 18 novembre 2026
+
+Human-directed · AI-assisted (Cadmus).
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot (Cadmus)
+- Human review :: Pending
