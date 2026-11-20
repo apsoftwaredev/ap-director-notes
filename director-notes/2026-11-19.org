@@ -1,0 +1,67 @@
+#+TITLE: Director's Note · 2026-11-19
+#+DATE: <2026-11-19 Thu>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-19
+:TIMEZONE: America/Los_Angeles
+:STATUS: Director record (redacted summary)
+:VISIBILITY: Public notes repository
+:END:
+- Local time (PT) :: 2026-11-19 21:30 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+Public research map, shared footer and privacy review.
+
+** Done today
+- Study: English word of the day "upbraid" (to speak to someone angrily or critically over something they did wrong); French expression of the day "tout de suite" (right away, immediately). Both were added to the Words database.
+- Public research map: the "Identity and Consciousness: Public Research Map" went live (165 pages, 11 categories, 8 topics, 32 tags) with a Version history.
+- Public pages: covers and icons set on 218 research pages; version 1.0 guides added to all 8 topic pages and 11 category pages.
+- Site navigation: the shared footer with the current site tree was rolled out to 560 public pages.
+- Privacy: review of the public wiki pages completed; nothing was deleted.
+- Mirror: the research tree was mirrored as org files to the public repository apsoftwaredev/identity-consciousness-public.
+- Routines: public activity feed refresh, public Jira table refresh, and hourly deployment checks (no new updates).
+- Other items: Private — see private log.
+
+** Next
+- Carry open items to tomorrow's log (details: Private — see private log).
+- Jira AP-82 (site footer and navigation) and AP-3 (public commons) continue.
+
+*** Français / French
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+**** Titre
+Carte de recherche publique, pied de page partagé et contrôle de confidentialité.
+
+**** Fait aujourd'hui
+- Étude : mot anglais du jour « upbraid » (parler à quelqu'un avec colère ou de façon critique à cause de ce qu'il a mal fait) ; expression française du jour « tout de suite » (immédiatement). Les deux ont été ajoutés à la base de données de mots.
+- Carte de recherche publique : « Identity and Consciousness: Public Research Map » est en ligne (165 pages, 11 catégories, 8 sujets, 32 étiquettes), avec un historique des versions.
+- Pages publiques : couvertures et icônes sur 218 pages de recherche ; guides de version 1.0 ajoutés aux 8 sujets et aux 11 catégories.
+- Navigation : le pied de page partagé, avec l'arborescence actuelle du site, a été déployé sur 560 pages publiques.
+- Confidentialité : le contrôle des pages publiques du wiki est terminé ; rien n'a été supprimé.
+- Miroir : l'arbre de recherche a été reflété en fichiers org dans le dépôt public apsoftwaredev/identity-consciousness-public.
+- Routines : actualisation du flux d'activité publique et du tableau Jira public, et vérifications horaires des déploiements (aucune nouveauté).
+- Autres éléments : Private — see private log.
+
+**** Suite
+- Reporter les points ouverts au journal de demain (détails : Private — see private log).
+- Les billets Jira AP-82 (pied de page et navigation) et AP-3 (espace public) se poursuivent.
+
+Daniel Bryan Boice, 19 novembre 2026
+
+Human-directed · AI-assisted.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
