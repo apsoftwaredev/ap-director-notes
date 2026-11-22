@@ -1,0 +1,61 @@
+#+TITLE: Director's Note · 2026-11-21
+#+DATE: <2026-11-21 Sat>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-21
+:TIMEZONE: America/Los_Angeles
+:STATUS: Director record (redacted summary)
+:VISIBILITY: Public notes repository
+:END:
+- Local time (PT) :: 2026-11-21 21:45 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+Daily study, bot development and routine checks.
+
+** Done today
+- Study: English word of the day "meet-cute"; French lesson "sentir" and "se sentir" (to smell, sense or feel; to feel). Both were added to the Words database (2 entries).
+- Development: the Cadmus Discord and Telegram bot work (pull requests #63, #64 and #65) was merged in the early hours, and each Hosting deploy succeeded.
+- Routines: the morning log, morning meeting, Jira table refresh and public activity refresh ran as scheduled.
+- Planning: Private — see private log.
+- Other items: Private — see private log.
+
+** Next
+- Carry open items to tomorrow's log (details: Private — see private log).
+- Jira AP-82 (site footer and navigation) and AP-3 (public commons) continue.
+
+*** Français / French
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+**** Titre
+Étude quotidienne, développement des bots et vérifications de routine.
+
+**** Fait aujourd'hui
+- Étude : mot anglais du jour « meet-cute » ; leçon de français « sentir » et « se sentir » (sentir, percevoir ou éprouver ; se sentir). Les deux ont été ajoutés à la base de données de mots (2 entrées).
+- Développement : le travail sur les bots Discord et Telegram de Cadmus (demandes de fusion n° 63, 64 et 65) a été fusionné aux petites heures, et chaque déploiement d'hébergement a réussi.
+- Routines : le journal du matin, la réunion du matin, l'actualisation du tableau Jira et celle de l'activité publique se sont exécutés comme prévu.
+- Planification : Private — see private log.
+- Autres éléments : Private — see private log.
+
+**** Suite
+- Reporter les points ouverts au journal de demain (détails : Private — see private log).
+- Les billets Jira AP-82 (pied de page et navigation) et AP-3 (espace public) se poursuivent.
+
+Daniel Bryan Boice, 21 novembre 2026
+
+Human-directed · AI-assisted.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
