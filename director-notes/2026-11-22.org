@@ -1,0 +1,59 @@
+#+TITLE: Director's Note · 2026-11-22
+#+DATE: <2026-11-22 Sun>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-22
+:TIMEZONE: America/Los_Angeles
+:STATUS: Director record (redacted summary)
+:VISIBILITY: Public notes repository
+:END:
+- Local time (PT) :: 2026-11-22 21:35 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+Daily study and routine checks.
+
+** Done today
+- Study: English word of the day "copacetic" (describes things that are very satisfactory); French lesson "marrant / marrante" (informal: funny, amusing, strange or ironic). Both were added to the Words database (2 entries).
+- Routines: the morning log, morning brief and public activity refresh ran as scheduled; the only code change in the public repository was the automatic Notion data refresh.
+- Reading: three reviews were listed on the public day page (personal identity, how science is defined, and quantum superposition of times in ion clocks).
+- Planning: Private — see private log.
+- Other items: Private — see private log.
+
+** Next
+- Carry open items to tomorrow's log (details: Private — see private log).
+
+*** Français / French
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+**** Titre
+Étude quotidienne et vérifications de routine.
+
+**** Fait aujourd'hui
+- Étude : mot anglais du jour « copacetic » (se dit de ce qui est tout à fait satisfaisant) ; leçon de français « marrant / marrante » (familier : drôle, amusant, étrange ou ironique). Les deux ont été ajoutés à la base de données de mots (2 entrées).
+- Routines : le journal du matin, le brief du matin et l'actualisation de l'activité publique se sont exécutés comme prévu ; le seul changement de code dans le dépôt public est l'actualisation automatique des données Notion.
+- Lecture : trois comptes rendus ont été listés sur la page publique du jour (identité personnelle, définition de la science, et superposition quantique des temps dans les horloges à ions).
+- Planification : Private — see private log.
+- Autres éléments : Private — see private log.
+
+**** Suite
+- Reporter les points ouverts au journal de demain (détails : Private — see private log).
+
+Daniel Bryan Boice, 22 novembre 2026
+
+Human-directed · AI-assisted.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
