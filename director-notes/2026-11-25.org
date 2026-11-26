@@ -1,0 +1,59 @@
+#+TITLE: Director's Note · 2026-11-25
+#+DATE: <2026-11-25 Wed>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-25
+:TIMEZONE: America/Los_Angeles
+:STATUS: Director record (redacted summary)
+:VISIBILITY: Public notes repository
+:END:
+- Local time (PT) :: 2026-11-25 21:35 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+Study, software review work and public hub updates.
+
+** Done today
+- Study: English word of the day "arbiter" (a person with power to decide a dispute; Merriam-Webster); French word "reconnaissant" (grateful; French Learner). Both were added to the Words database (2 entries).
+- Software: phase-one development work on the PsyTrack app reached review and passed automated builds; nothing was merged.
+- Research tooling: a sync of the public Identity and Consciousness tree to a Roam graph stopped partway and was paused.
+- Public hub: scheduling embeds on the public hub page were updated.
+- Funding, texting setup, correspondence, school and benefits matters: Private — see private log.
+
+** Next
+- Software and publishing follow-ups; everything else: Private — see private log.
+
+*** Français / French
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+**** Titre
+Étude, travaux logiciels en révision et mises à jour du portail public.
+
+**** Fait aujourd'hui
+- Étude : mot anglais du jour « arbiter » (personne ayant le pouvoir de trancher un différend ; Merriam-Webster) ; mot français « reconnaissant » (qui éprouve de la gratitude ; French Learner). Les deux ont été ajoutés à la base de données de mots (2 entrées).
+- Logiciel : le travail de la phase 1 de l'application PsyTrack est en révision et a réussi les compilations automatiques ; rien n'a été fusionné.
+- Outils de recherche : la synchronisation de l'arborescence publique Identité et Conscience vers un graphe Roam s'est arrêtée en cours de route et a été suspendue.
+- Portail public : les intégrations de réservation de la page publique ont été mises à jour.
+- Financement, configuration des textos, correspondance, études et prestations : Private — see private log.
+
+**** Suite
+- Suivis logiciels et publication ; le reste : Private — see private log.
+
+Daniel Bryan Boice, 25 novembre 2026
+
+Human-directed · AI-assisted.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
