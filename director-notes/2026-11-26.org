@@ -1,0 +1,63 @@
+#+TITLE: Director's Note · 2026-11-26
+#+DATE: <2026-11-26 Thu>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-26
+:TIMEZONE: America/Los_Angeles
+:STATUS: Director record (redacted summary)
+:VISIBILITY: Public notes repository
+:END:
+- Local time (PT) :: 2026-11-26 21:20 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+Thanksgiving Day: morning meeting, word study and research-library drafting.
+
+** Done today
+- Morning meeting and brief filed; Thanksgiving Day plan and open items reviewed (details: Private — see private log).
+- Study: English word of the day "felicitous" (well expressed or suited to the occasion; Merriam-Webster); French expression "l'Action de grâce" (thanksgiving, literally "act of thanks"; French Learner). Both were added to the Words database (2 entries).
+- Public day page for Thursday, Nov 26, 2026 published with four research reviews (moral motivation, jail-based skills groups, a circadian subtype of depression, gravity-mediated signalling).
+- Research library: after midnight, new consciousness-research pages and a neurotech research-opportunities page were drafted and held for review; nothing new was made public.
+- Future Projects list created with a "Brain-computer interface and EEG" entry.
+- Website: shared public footer cleanup completed.
+- Infrastructure, backups, accounts, funding, school, benefits and correspondence: Private — see private log.
+
+** Next
+- Review held research pages; software and publishing follow-ups; everything else: Private — see private log.
+
+*** Français / French
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+**** Titre
+Jour de Thanksgiving : réunion du matin, étude de mots et rédaction de la bibliothèque de recherche.
+
+**** Fait aujourd'hui
+- Réunion et brief du matin classés ; plan de Thanksgiving et points ouverts passés en revue (détails : Private — see private log).
+- Étude : mot anglais du jour « felicitous » (bien exprimé ou adapté à la situation ; Merriam-Webster) ; expression française « l'Action de grâce » (action de remercier, littéralement « acte de remerciement » ; French Learner). Les deux ont été ajoutés à la base de données de mots (2 entrées).
+- Page publique du jeudi 26 novembre 2026 publiée avec quatre comptes rendus de recherche (motivation morale, groupes de compétences en prison, sous-type circadien de la dépression, signal transmis par gravité).
+- Bibliothèque de recherche : après minuit, de nouvelles pages sur la recherche en conscience et une page sur les occasions de recherche en neurotechnologie ont été rédigées et mises en attente de révision ; rien de nouveau n'a été rendu public.
+- Liste de projets futurs créée avec une entrée « Interface cerveau-ordinateur et EEG ».
+- Site web : nettoyage du pied de page public partagé terminé.
+- Infrastructure, sauvegardes, comptes, financement, études, prestations et correspondance : Private — see private log.
+
+**** Suite
+- Réviser les pages de recherche en attente ; suivis logiciels et publication ; le reste : Private — see private log.
+
+Daniel Bryan Boice, 26 novembre 2026
+
+Human-directed · AI-assisted.
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
