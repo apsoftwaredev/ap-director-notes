@@ -1,0 +1,41 @@
+#+TITLE: Director's Note · 2026-11-27
+#+DATE: <2026-11-27 Fri>
+#+AUTHOR: Daniel Bryan Boice
+#+FILETAGS: :director:apf:public:journal:
+#+STARTUP: showall
+#+OPTIONS: toc:nil num:nil
+
+* Stamp
+:PROPERTIES:
+:DATE: 2026-11-27
+:TIMEZONE: America/Los_Angeles
+:STATUS: Director record (redacted summary)
+:VISIBILITY: Public notes repository
+:END:
+- Local time (PT) :: 2026-11-27 18:21 PT
+- Place :: Olympia, Washington, USA
+- Label :: Human-directed, AI-assisted
+
+* Summary
+** Headline
+Universe 42 Help Desk podcast on Spotify, and a stated vision for the show.
+
+** Done today
+*** ~5:30–6:18 PM PT — Universe 42 Help Desk podcast on Spotify
+The Universe 42 Help Desk podcast channel was created on Spotify for Creators (set up by Cadmus at Daniel's request; no episodes published yet), and Daniel set up a new show on it himself called "U42 Daniels Well-Directed Note," tied to adaptivephilosophy.foundation.
+
+Cite: Daniel's words, Nov 27, 2026 call; AI-assisted transcription by Cadmus (Grok Bot). The show setup was Daniel's own work.
+
+*** Vision for the U42 podcast show (stated direction, not implemented)
+Stated direction for the show, not yet implemented: voice spiels co-made with Cadmus, with a written document produced at the same time; every session saved as a log entry plus a recording; start and stop controls separating public and private segments (private notes stay private); chatting with the bot team and future guests across channels, possibly a VR round table or a snowy North Pole / Santa's workshop room, or any device.
+
+Cite: Captured from a live voice call between Daniel and Cadmus (Grok Bot), Nov 27, 2026.
+
+** Next
+
+* Provenance
+- Originated by :: Director Daniel Bryan Boice
+- Written with :: Grok Bot
+- Human review :: Pending
+
+— Daniel Bryan Boice, Director · DanBoice@adaptivephilosophy.foundation
